@@ -2,7 +2,7 @@
     "name": "theme-earlytobed",
     "displayName": "EarlyToBed",
     "description": "Blue and italic mods to Tomorrow Night",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "PasqNet",
     "engines": {
         "vscode": "^1.0.0"
